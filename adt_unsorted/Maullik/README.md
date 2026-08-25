@@ -1,2 +1,0 @@
-# Maullik
-DSA LAB ALGORITHMS
